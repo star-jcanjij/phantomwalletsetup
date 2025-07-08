@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Trust Wallet'
+project = 'Phantom Wallet'
 
 
 # The full version, including alpha/beta/rc tags
