@@ -11,6 +11,12 @@ Phantom is a popular crypto wallet designed specifically for the Solana blockcha
 
 What Is Phantom Wallet?
 -----------------------
+.. image:: phantom.jpg
+      :width: 800px
+      :align: center
+      :height: 500px
+      :alt: Phantom wallet setup
+      :target: #
 
 Phantom is a non-custodial browser extension and mobile wallet that allows users to interact with the Solana blockchain. It supports SOL, Solana-based tokens (SPL), NFTs, staking, and Web3 apps.
 
