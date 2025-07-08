@@ -34,6 +34,8 @@ How to Set Up a Phantom Wallet
 
 Setting up your Phantom wallet takes just a few minutes. Follow these steps:
 
+You can Also Take help from Phantom Wallet Executive using **Phantom Wallet Support +1-870-(406)-6577** or **(+1-870-406-6577)** Toll Free Number 
+
 1. **Install the Phantom Extension or App**  
    - Visit: https://phantom.app/download  
    - Choose your browser (Chrome, Firefox, Edge) or download the mobile app.
